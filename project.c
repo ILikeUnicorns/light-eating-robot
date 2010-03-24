@@ -56,8 +56,6 @@ int diffSens1;
 int thresshold=30;
 char mode=0;
 
-char datasend = "tetn";
-
 //Main
 void main(void) {
 	initBoard();
